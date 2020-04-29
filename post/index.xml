@@ -6,10 +6,19 @@
     <description>Recent content in Posts on blog innerxuan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Apr 2020 00:19:49 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2020 23:34:43 +0800</lastBuildDate>
     
 	<atom:link href="http://xuansining.top/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>先导课</title>
+      <link>http://xuansining.top/post/even_firstblog/</link>
+      <pubDate>Wed, 29 Apr 2020 23:34:43 +0800</pubDate>
+      
+      <guid>http://xuansining.top/post/even_firstblog/</guid>
+      <description>目录 如何提问？ 代码Bug三要素 代码链接 期望效果 实际需求 非代码问题 原始需求 你的思路 你遇到的问题 避免X-Y问题 需求是x 想到 了方案Y 然后问Y遇到的</description>
+    </item>
     
     <item>
       <title>第三篇博客</title>
